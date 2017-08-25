@@ -31,7 +31,7 @@
 \begin{tabular}{@{}p{3in}p{4in}}
 \censor{\#\#\#\#\# Street Ave}            & {\it Phone:}  \censor{(XXX) XXX-XXXX}\\
 \censor{TTTTTT, SS ZZZZZ}                 & {\it E-mail:} \censor{address@address}\\
-                                          & {\it Website:} chrisdienes.github.io\\
+                                          & {\it Website:} \url{chrisdienes.github.io}\\
 \end{tabular}
 
 \section{\sc Overview}
